@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=你好，世界！我是李兆智。;欢迎来到我的+GitHub+主页！;我是自由开发者和设计师;这里有我的技术项目和文章;全栈+Web+应用程序设计与开发;商业智能分析与报表自动化工具;信息管理与业务决策系统;智能数字艺术与设计工具)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=你好，世界！我是李兆智。;欢迎来到我的+GitHub+主页！;我是来自广州的自由开发者和设计师。;这里有我的技术项目和文章。;全栈+Web+应用程序设计与开发;商业智能分析与报表自动化工具;信息管理与业务决策系统;智能数字艺术与设计工具)](https://git.io/typing-svg)
 
 <!--
 ### Hi there 👋
