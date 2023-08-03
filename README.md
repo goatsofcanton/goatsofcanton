@@ -1,4 +1,6 @@
 
+Hi~欢迎访问我的 GitHub 主页。这个账号正在经历迁移，平日练习和非公开项目已转移至 BitBucket。未来，这里将用作开源项目的开发管理。
+
 <!-- Traditional Chinese rolling headline -->
 <!-- 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=你好，世界!+我是李兆智。;歡迎造訪我的+GitHub+專頁！;我是名獨立開發者和插畫師。;這裏有我的技術項目和網誌。;全棧+Web+應用程式設計與開發;資料分析與報表自動化工具;高效辦公資源管理系統;數據管理與決策系統;数碼藝術和設計+AI+解決方案;)](https://git.io/typing-svg)
