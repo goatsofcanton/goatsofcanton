@@ -1,5 +1,5 @@
 
-Hi~欢迎访问我的 GitHub 主页。这个账号正在经历迁移，平日练习和非公开项目已转移至 BitBucket。未来，这里将用作开源项目的开发管理。
+Hi~欢迎访问我的 GitHub 主页。我已经把平日练习和非公开的项目迁移至 BitBucket。未来，我会在这里开发一些更具价值的中长期项目。
 
 <!-- Traditional Chinese rolling headline -->
 <!-- 
