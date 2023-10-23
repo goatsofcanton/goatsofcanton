@@ -1,5 +1,5 @@
 
-Hi~欢迎访问我的 GitHub 主页。我已经把平日练习和非公开项目迁移至 BitBucket。未来，我会在这里开发更具价值的中长期项目。
+嗨！欢迎访问我的 GitHub 主页。这里有我开发并开源的中、长期项目，涵盖文件管理、数据分析、Web 开发及 AIGC 等多方面的技术和应用场景。希望它们对你有帮助！
 
 <!-- Traditional Chinese rolling headline -->
 <!-- 
