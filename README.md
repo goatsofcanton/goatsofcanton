@@ -13,7 +13,7 @@
 
 研究网站：[点击这里（尚未开放）](https://goatsofcanton.github.com/zh-cn/research/) 
 ||
-博客网站：[点击这里（尚未开放）](https://goatsofcanton.github.com/zh-cn/blogs/)
+博客网站：[点击这里](https://goatsofcanton.blogspot.com/)
 
 <!-- Traditional Chinese rolling headline -->
 <!-- 
