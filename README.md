@@ -9,11 +9,11 @@
   - 代码：[点击这里](https://github.com/goatsofcanton/knowmap/)
   - 网站：[点击这里（尚未开放）](https://goatsofcanton.github.io/zh-cn/knowmap/)
 
+这两个软件均基于 Electron 框架开发，后端则使用 Python 语言。
+
 研究网站：[点击这里（尚未开放）](https://goatsofcanton.github.com/zh-cn/research/) 
 ||
 博客网站：[点击这里（尚未开放）](https://goatsofcanton.github.com/zh-cn/blogs/)
-
-这两个软件均基于 Electronjs 框架使用 HTML5 / CSS3 / JavaScript 等 Web 技术开发，后端则使用 Python 语言。
 
 <!-- Traditional Chinese rolling headline -->
 <!-- 
