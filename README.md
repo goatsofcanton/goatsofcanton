@@ -2,10 +2,8 @@
 嗨！欢迎访问我的 GitHub 主页。这里有我的技术项目，包括商业智能分析、机器人流程自动化和 AIGC 等若干技术领域和应用场景。
 
 - 速影（Autoon）：基于 AIGC 技术的 2D 动画制作软件
-  - 代码：[点击这里](https://github.com/goatsofcanton/autoon/)
+  - 代码：[点击这里](https://github.com/goatsofcanton/autoon-electron-desktop-app/)
   - 网站：[点击这里（尚未开放）](https://goatsofcanton.github.io/zh-cn/autoon/)
-
-这两个软件均基于 Electron 框架开发，后端则使用 Python 语言。
 
 研究网站：[点击这里（尚未开放）](https://goatsofcanton.github.com/zh-cn/research/) 
 ||
