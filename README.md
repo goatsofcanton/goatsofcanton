@@ -1,2 +1,1 @@
-
-I'm a freelance web developer and designer who's interested in AIGC for design. I create illustrations in Krita and Inkscape and open source artwork files and tutorials here. I build web-based and Electron applications that embed AIGC algorithms and design systems that enable efficient development of accessible, replicable user interfaces / experiences.
+大家好！欢迎访问我的 GitHub 主页。我是一名独立 Web 开发者和设计师。这里有我开发的技术项目以及博客文章，涵盖商业智能分析、AIGC+设计以及软件机器人等若干技术领域和应用场景。
