@@ -1,5 +1,5 @@
 
-I'm a freelance web developer and designer who's interested in AIGC for design. I create digital illustrations with Krita and Inkscape and open source software files and tutorials here. I build web-based and Electron applications that embed AIGC algorithms. I'm proficient in HTML, CSS, JavaScript, Python, VBA, and SQL. I use Penpot to build prototypes and design systems.
+I'm a freelance web developer and designer who's interested in AIGC for design. I create digital illustrations with Krita and Inkscape and open source artwork files and tutorials here. I build web-based and Electron applications that embed AIGC algorithms. I'm proficient in JavaScript, Python, and VBA. I use Penpot to build prototypes and design systems.
 
 <!--
 - 速影（Autoon）：基于 AIGC 技术的 2D 动画制作软件
